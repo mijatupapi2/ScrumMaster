@@ -1,4 +1,4 @@
-## 3.3. Listado de Requerimientos Funcionales (RF)
+## 3. Listado de Requerimientos Funcionales (RF)
 
 **Prioridad:** MoSCoW (Must = Debe tener, Should = Debería, Could = Podría, Won't = No tendrá)
 
