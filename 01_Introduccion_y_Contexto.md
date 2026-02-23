@@ -1,6 +1,6 @@
-# 3. Hoja de Trabajo Practica (Plantilla Resuelta)
+# 1. Hoja de Trabajo Practica (Plantilla Resuelta)
 
-## 3.1. Ficha del Proyecto
+## 1.1. Ficha del Proyecto
 
 | Concepto | Descripcion |
 |----------|-------------|
@@ -10,7 +10,7 @@
 
 ---
 
-## 3.2. Matriz de Stakeholders
+## 1.2. Matriz de Stakeholders
 
 | Rol | Nombre/Cargo | Nivel de Influencia | Expectativa Principal |
 |------|-------------|--------------------|-----------------------|
