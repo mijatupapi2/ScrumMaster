@@ -1,4 +1,5 @@
-### 4. Listado de Requerimientos No Funcionales (RNF)  
+## 4. Listado de Requerimientos No Funcionales (RNF)
+  
 **Categorías: URPS + Seguridad**
 
 | ID      | Categoría         | Descripción Técnica                                                                 | Métrica de Éxito |
