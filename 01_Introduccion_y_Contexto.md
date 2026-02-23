@@ -1,9 +1,9 @@
-## 3.1. Identificación de Actores del Sistema
+### 3.1. Ficha del Proyecto
 
-**Tipo de Actor:** Interno = Opera dentro del sistema, Externo = Consulta información pública
+| Concepto | Descripción |
+| :--- | :--- |
+| **Nombre del Proyecto** | Plataforma del Sistema Municipal de Información Ambiental (SMIA) |
+| **Problema a Resolver** | La municipalidad dispersa la información ambiental en múltiples formatos (Excel, papel, sistemas aislados), lo que dificulta la toma de decisiones, el cumplimiento normativo y la transparencia ciudadana. |
+| **Objetivo Principal** | Centralizar, gestionar y visualizar la información ambiental municipal en una plataforma única, accesible y estandarizada para mejorar la gestión pública y la participación ciudadana. |
 
-| ID | Actor del Sistema | Tipo | Descripción | Nivel de Acceso |
-| :--- | :--- | :--- | :--- | :--- |
-| AC-01 | Administrador del sistema | Interno | Gestiona la configuración general del sistema, usuarios, permisos y supervisión global de la plataforma. | Acceso total a todas las funcionalidades y datos. |
-| AC-02 | Técnico ambiental | Interno | Registra, valida y analiza datos ambientales, genera reportes técnicos y monitorea indicadores. | Acceso a registro, edición, análisis y visualización de datos técnicos. |
-| AC-03 | Ciudadano (usuario público) | Externo | Consulta información ambiental pública, indicadores y mapas disponibles en el portal del sistema. | Acceso solo de lectura a información pública sin autenticación. |
+---
