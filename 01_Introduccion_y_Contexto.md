@@ -14,8 +14,7 @@
 
 | Rol | Nombre/Cargo | Nivel de Influencia | Expectativa Principal |
 |------|-------------|--------------------|-----------------------|
-| **Cliente / Patrocinador** | cliente: Gerencia de Gestión Ambiental Municipal
-patrocinador: Agencia Sueca de Cooperación Internacional para el Desarrollo (ASDI) | Alto | Transformar el SMIA en la columna vertebral de la planificación municipal, automatizando el Reporte Anual del Estado del Ambiente para eliminar la carga manual. El sistema debe garantizar la interoperabilidad entre la Red MONICA y Residuos bajo la Ley 755, asegurando transparencia total mediante el acceso ciudadano a indicadores de calidad del aire en tiempo real. |
+| **Cliente / Patrocinador** | cliente: Gerencia de Gestión Ambiental Municipal patrocinador: Agencia Sueca de Cooperación Internacional para el Desarrollo (ASDI) | Alto | Transformar el SMIA en la columna vertebral de la planificación municipal, automatizando el Reporte Anual del Estado del Ambiente para eliminar la carga manual. El sistema debe garantizar la interoperabilidad entre la Red MONICA y Residuos bajo la Ley 755, asegurando transparencia total mediante el acceso ciudadano a indicadores de calidad del aire en tiempo real. |
 | **Usuario Final (Interno)** | Técnicos municipales, inspectores, planificadores | Alto | Registrar y consultar datos ambientales de forma rápida y confiable. |
 | **Usuario Final (Externo)** | Ciudadanos, ONGs, universidades | Medio | Acceder a información ambiental pública de manera transparente y actualizada. |
 | **Equipo Técnico (Consultor)** | Facilitador: Mijael Vega
