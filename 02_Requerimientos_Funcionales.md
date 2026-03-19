@@ -1,6 +1,6 @@
 ## 3.3. Listado de Requerimientos Funcionales (RF)
 
-| ID | Descripción del Requerimiento | Prioridad | Criterio de Aceptación |
+| **ID** | **Descripción del Requerimiento** | **Prioridad** | **Criterio de Aceptación** |
 | :--- | :--- | :--- | :--- |
 | **RF-01** | El sistema debe permitir la autenticación de usuarios mediante protocolos seguros (OAuth2/JWT). | Must | Token válido generado, Expiración de sesión configurable |
 | **RF-02** | El sistema debe permitir la creación, edición y eliminación de usuarios. | Must | CRUD completo funcional |
@@ -43,4 +43,3 @@
 | **RF-39** | El sistema debe gestionar las inspecciones del Centro de Revisión Técnica Vehicular (CRTV) | Must | Interoperabilidad con analizadores de gases; registro de emisiones vinculado al número de placa y validación de deuda tributaria en tiempo real. |
 | **RF-40** | Restringir el acceso a formularios y edición de datos según la unidad técnica de pertenencia. | Must | Un técnico solo puede editar registros de su propia área (Ej: Aire); el Admin es el único con visión 360°. |
 |**RF-41** | Log de Auditoría Inmutable: Registro automático de todas las transacciones y modificaciones realizadas en los datos ambientales.| Must | Cada cambio guarda el ID de usuario, fecha, hora y el "Valor Anterior vs. Valor Nuevo" en una tabla de solo lectura.|
-
